@@ -79,7 +79,7 @@ display: flex;
 
 }
 .contacts-link {
-	color: var(--text-title);
+	color: var(--text-paragraph);
 	text-decoration: none;
 	font-weight: 500;
 	font-size: 14px;
